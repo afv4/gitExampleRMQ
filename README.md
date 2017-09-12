@@ -1,0 +1,2 @@
+# gitExampleRMQ
+class rabbitmq example
